@@ -3,6 +3,10 @@
 ## Overview
 This is a Jupyter iPython Notebook with a series of examples on how to use the [VMware Carbon Black CBC SDK](https://github.com/carbonblack/carbon-black-cloud-sdk-python) in SOAR workflows.
 
+## Requirements
+- Python 3.x
+- Jupyter iPython Notebook
+
 ## Usage
 This notebook can be imported into any Jupyter utility. It was written and developed using [Google's Colab](https://colab.research.google.com/) tool and has been tested in [Microsoft's VSCode IDE](https://code.visualstudio.com/docs/datascience/jupyter-notebooks). See those links for more information on how to run Jupyter Notebooks in the respective tools.
 
@@ -24,4 +28,4 @@ In addition there are 3 sample workflows at the bottom of the file
 - **End-to-end: Credential Scraping** - An example showing how to identify credentail scraping and how to use Audit & Remediation to identify who was logged in at the time
 
 ## Support
-This is a community supported project. Please open an issue in this repo with any bugs or suggestions.
+This is a community supported project. Please open an [issue](https://github.com/cbcommunity/cbc-sdk-soar-notebook/issues) with any bugs or suggestions.
